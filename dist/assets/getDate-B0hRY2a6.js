@@ -1,0 +1,1 @@
+function D(n){const t=new Date(n),e=t.getFullYear(),a=t.getMonth(),o=t.getDate();return e+"-"+(a+1).toString().padStart(2,"0")+"-"+o.toString().padStart(2,"0")}function g(n){let t=new Date(n),e=t.getDate();t.getMonth(),t.setDate(0);let a=t.getDate();return t.setDate(e<a?e:a),D(t)}export{g};

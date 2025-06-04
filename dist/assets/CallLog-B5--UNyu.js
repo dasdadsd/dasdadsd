@@ -1,0 +1,1 @@
+import{_ as o,c as s,f as t,b as a}from"./index-CHPzbyjM.js";const c={},n={class:"top"};function r(_,e){return a(),s("div",n,e[0]||(e[0]=[t("div",null," 通话记录 ",-1)]))}const l=o(c,[["render",r],["__scopeId","data-v-7a25f64d"]]);export{l as default};
